@@ -1,1 +1,2 @@
-# Lab-7-Constantine
+# JSPlatformer
+JS Platformer for DIG 3480C
